@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CV updated="2010.06.22 20:20:15">
+  <Personal>
+    <Name>Mipoberg</Name>
+    <Birth year="1984" month="12" day="22" />
+  </Personal>
+  <Jobs>
+    <Job>WPF developer</Job>
+    <Job>ASP.NET MVC developer</Job>
+  </Jobs>
+  <Experiences>
+    <Experience name="JQuery" years="3" />
+    <Experience name="SQL" years="5" />
+  </Experiences>
+</CV>
