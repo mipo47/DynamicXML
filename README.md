@@ -7,8 +7,7 @@ Use XML like dynamic object
 ### Sample XML ###
 
 
-```
-#!xml
+```xml
 <CV updated="never">
 	<Personal>
 		<Name>Mipo</Name>
@@ -27,8 +26,7 @@ Use XML like dynamic object
 
 ### Read ###
 
-```
-#!C#
+```C#
 // Load XML from file
 dynamic xml = new XmlItem(xmlFile);
 
@@ -57,8 +55,7 @@ Assert.AreEqual("5", sqlExp["years"], false, "Another experience found");
 ### Write ###
 
 
-```
-#!C#
+```C#
 
 // Load XML from file
 dynamic xml = new XmlItem(xmlFile);
